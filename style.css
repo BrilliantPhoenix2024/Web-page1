@@ -93,3 +93,24 @@ ul>li>a:hover{
 .srch:focus{
     outline: none;
 }
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: whitesmoke;
+    position: relative;
+}
+p{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
